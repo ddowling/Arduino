@@ -1,8 +1,5 @@
 #include <Arduino.h>
-extern "C"
-{
 #include "timer.h"
-}
 
 int green_led = 8;
 int red_led = 9;
